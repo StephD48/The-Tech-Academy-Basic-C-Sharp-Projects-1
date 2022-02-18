@@ -1,0 +1,7 @@
+C:\Users\Stephanie\source\repos\Method_3\Method_3\bin\Debug\Method_3.exe.config
+C:\Users\Stephanie\source\repos\Method_3\Method_3\bin\Debug\Method_3.exe
+C:\Users\Stephanie\source\repos\Method_3\Method_3\bin\Debug\Method_3.pdb
+C:\Users\Stephanie\source\repos\Method_3\Method_3\obj\Debug\Method_3.csproj.AssemblyReference.cache
+C:\Users\Stephanie\source\repos\Method_3\Method_3\obj\Debug\Method_3.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\Method_3\Method_3\obj\Debug\Method_3.exe
+C:\Users\Stephanie\source\repos\Method_3\Method_3\obj\Debug\Method_3.pdb

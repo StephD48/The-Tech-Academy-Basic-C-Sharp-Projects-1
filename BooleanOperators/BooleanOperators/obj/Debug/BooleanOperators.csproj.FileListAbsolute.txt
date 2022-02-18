@@ -1,0 +1,7 @@
+C:\Users\Stephanie\source\repos\BooleanOperators\BooleanOperators\bin\Debug\BooleanOperators.exe.config
+C:\Users\Stephanie\source\repos\BooleanOperators\BooleanOperators\bin\Debug\BooleanOperators.exe
+C:\Users\Stephanie\source\repos\BooleanOperators\BooleanOperators\bin\Debug\BooleanOperators.pdb
+C:\Users\Stephanie\source\repos\BooleanOperators\BooleanOperators\obj\Debug\BooleanOperators.csproj.AssemblyReference.cache
+C:\Users\Stephanie\source\repos\BooleanOperators\BooleanOperators\obj\Debug\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\BooleanOperators\BooleanOperators\obj\Debug\BooleanOperators.exe
+C:\Users\Stephanie\source\repos\BooleanOperators\BooleanOperators\obj\Debug\BooleanOperators.pdb

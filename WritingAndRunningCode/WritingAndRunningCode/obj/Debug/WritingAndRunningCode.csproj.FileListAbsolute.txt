@@ -1,0 +1,7 @@
+C:\Users\Stephanie\Desktop\Basic_C#_Programs\WritingAndRunningCode\WritingAndRunningCode\bin\Debug\WritingAndRunningCode.exe.config
+C:\Users\Stephanie\Desktop\Basic_C#_Programs\WritingAndRunningCode\WritingAndRunningCode\bin\Debug\WritingAndRunningCode.exe
+C:\Users\Stephanie\Desktop\Basic_C#_Programs\WritingAndRunningCode\WritingAndRunningCode\bin\Debug\WritingAndRunningCode.pdb
+C:\Users\Stephanie\Desktop\Basic_C#_Programs\WritingAndRunningCode\WritingAndRunningCode\obj\Debug\WritingAndRunningCode.csproj.AssemblyReference.cache
+C:\Users\Stephanie\Desktop\Basic_C#_Programs\WritingAndRunningCode\WritingAndRunningCode\obj\Debug\WritingAndRunningCode.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\Desktop\Basic_C#_Programs\WritingAndRunningCode\WritingAndRunningCode\obj\Debug\WritingAndRunningCode.exe
+C:\Users\Stephanie\Desktop\Basic_C#_Programs\WritingAndRunningCode\WritingAndRunningCode\obj\Debug\WritingAndRunningCode.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stephanie\source\repos\Method_Main\Method_Main\obj\Debug\Method_Main.csproj.AssemblyReference.cache
+C:\Users\Stephanie\source\repos\Method_Main\Method_Main\obj\Debug\Method_Main.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\Method_Main\Method_Main\bin\Debug\Method_Main.exe.config
+C:\Users\Stephanie\source\repos\Method_Main\Method_Main\bin\Debug\Method_Main.exe
+C:\Users\Stephanie\source\repos\Method_Main\Method_Main\bin\Debug\Method_Main.pdb
+C:\Users\Stephanie\source\repos\Method_Main\Method_Main\obj\Debug\Method_Main.exe
+C:\Users\Stephanie\source\repos\Method_Main\Method_Main\obj\Debug\Method_Main.pdb

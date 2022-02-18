@@ -1,0 +1,7 @@
+C:\Users\Stephanie\source\repos\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe.config
+C:\Users\Stephanie\source\repos\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe
+C:\Users\Stephanie\source\repos\PackageExpress\PackageExpress\bin\Debug\PackageExpress.pdb
+C:\Users\Stephanie\source\repos\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csproj.AssemblyReference.cache
+C:\Users\Stephanie\source\repos\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\PackageExpress\PackageExpress\obj\Debug\PackageExpress.exe
+C:\Users\Stephanie\source\repos\PackageExpress\PackageExpress\obj\Debug\PackageExpress.pdb

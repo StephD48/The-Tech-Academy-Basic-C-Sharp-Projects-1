@@ -1,0 +1,7 @@
+C:\Users\Stephanie\source\repos\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\CallingMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\Stephanie\source\repos\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\CallingMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\CallingMethodAssignment\CallingMethodAssignment\bin\Debug\CallingMethodAssignment.exe.config
+C:\Users\Stephanie\source\repos\CallingMethodAssignment\CallingMethodAssignment\bin\Debug\CallingMethodAssignment.exe
+C:\Users\Stephanie\source\repos\CallingMethodAssignment\CallingMethodAssignment\bin\Debug\CallingMethodAssignment.pdb
+C:\Users\Stephanie\source\repos\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\CallingMethodAssignment.exe
+C:\Users\Stephanie\source\repos\CallingMethodAssignment\CallingMethodAssignment\obj\Debug\CallingMethodAssignment.pdb

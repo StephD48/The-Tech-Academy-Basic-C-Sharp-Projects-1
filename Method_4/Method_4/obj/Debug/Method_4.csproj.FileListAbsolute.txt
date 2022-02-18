@@ -1,0 +1,7 @@
+C:\Users\Stephanie\source\repos\Method_4\Method_4\bin\Debug\Method_4.exe.config
+C:\Users\Stephanie\source\repos\Method_4\Method_4\bin\Debug\Method_4.exe
+C:\Users\Stephanie\source\repos\Method_4\Method_4\bin\Debug\Method_4.pdb
+C:\Users\Stephanie\source\repos\Method_4\Method_4\obj\Debug\Method_4.csproj.AssemblyReference.cache
+C:\Users\Stephanie\source\repos\Method_4\Method_4\obj\Debug\Method_4.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\Method_4\Method_4\obj\Debug\Method_4.exe
+C:\Users\Stephanie\source\repos\Method_4\Method_4\obj\Debug\Method_4.pdb

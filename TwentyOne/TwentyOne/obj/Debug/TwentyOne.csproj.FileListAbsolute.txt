@@ -1,0 +1,7 @@
+C:\Users\Stephanie\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Stephanie\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Stephanie\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Stephanie\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Stephanie\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Stephanie\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb

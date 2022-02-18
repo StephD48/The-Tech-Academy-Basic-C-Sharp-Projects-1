@@ -1,0 +1,7 @@
+C:\Users\Stephanie\source\repos\MathComparisonOperator\MathComparisonOperator\bin\Debug\MathComparisonOperator.exe.config
+C:\Users\Stephanie\source\repos\MathComparisonOperator\MathComparisonOperator\bin\Debug\MathComparisonOperator.exe
+C:\Users\Stephanie\source\repos\MathComparisonOperator\MathComparisonOperator\bin\Debug\MathComparisonOperator.pdb
+C:\Users\Stephanie\source\repos\MathComparisonOperator\MathComparisonOperator\obj\Debug\MathComparisonOperator.csproj.AssemblyReference.cache
+C:\Users\Stephanie\source\repos\MathComparisonOperator\MathComparisonOperator\obj\Debug\MathComparisonOperator.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\MathComparisonOperator\MathComparisonOperator\obj\Debug\MathComparisonOperator.exe
+C:\Users\Stephanie\source\repos\MathComparisonOperator\MathComparisonOperator\obj\Debug\MathComparisonOperator.pdb

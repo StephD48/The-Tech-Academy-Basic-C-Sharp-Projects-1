@@ -1,0 +1,7 @@
+C:\Users\Stephanie\source\repos\LoopConsoleApp\LoopConsoleApp\bin\Debug\LoopConsoleApp.exe.config
+C:\Users\Stephanie\source\repos\LoopConsoleApp\LoopConsoleApp\bin\Debug\LoopConsoleApp.exe
+C:\Users\Stephanie\source\repos\LoopConsoleApp\LoopConsoleApp\bin\Debug\LoopConsoleApp.pdb
+C:\Users\Stephanie\source\repos\LoopConsoleApp\LoopConsoleApp\obj\Debug\LoopConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Stephanie\source\repos\LoopConsoleApp\LoopConsoleApp\obj\Debug\LoopConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\LoopConsoleApp\LoopConsoleApp\obj\Debug\LoopConsoleApp.exe
+C:\Users\Stephanie\source\repos\LoopConsoleApp\LoopConsoleApp\obj\Debug\LoopConsoleApp.pdb

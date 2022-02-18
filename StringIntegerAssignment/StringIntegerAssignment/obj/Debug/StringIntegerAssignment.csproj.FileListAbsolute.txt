@@ -1,0 +1,7 @@
+C:\Users\Stephanie\source\repos\StringIntegerAssignment\StringIntegerAssignment\bin\Debug\StringIntegerAssignment.exe.config
+C:\Users\Stephanie\source\repos\StringIntegerAssignment\StringIntegerAssignment\bin\Debug\StringIntegerAssignment.exe
+C:\Users\Stephanie\source\repos\StringIntegerAssignment\StringIntegerAssignment\bin\Debug\StringIntegerAssignment.pdb
+C:\Users\Stephanie\source\repos\StringIntegerAssignment\StringIntegerAssignment\obj\Debug\StringIntegerAssignment.csproj.AssemblyReference.cache
+C:\Users\Stephanie\source\repos\StringIntegerAssignment\StringIntegerAssignment\obj\Debug\StringIntegerAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\StringIntegerAssignment\StringIntegerAssignment\obj\Debug\StringIntegerAssignment.exe
+C:\Users\Stephanie\source\repos\StringIntegerAssignment\StringIntegerAssignment\obj\Debug\StringIntegerAssignment.pdb

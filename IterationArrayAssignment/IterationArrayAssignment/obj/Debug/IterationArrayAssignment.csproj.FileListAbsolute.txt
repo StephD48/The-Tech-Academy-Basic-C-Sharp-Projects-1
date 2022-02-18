@@ -1,0 +1,7 @@
+C:\Users\Stephanie\source\repos\IterationArrayAssignment\IterationArrayAssignment\bin\Debug\IterationArrayAssignment.exe.config
+C:\Users\Stephanie\source\repos\IterationArrayAssignment\IterationArrayAssignment\bin\Debug\IterationArrayAssignment.exe
+C:\Users\Stephanie\source\repos\IterationArrayAssignment\IterationArrayAssignment\bin\Debug\IterationArrayAssignment.pdb
+C:\Users\Stephanie\source\repos\IterationArrayAssignment\IterationArrayAssignment\obj\Debug\IterationArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\Stephanie\source\repos\IterationArrayAssignment\IterationArrayAssignment\obj\Debug\IterationArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\source\repos\IterationArrayAssignment\IterationArrayAssignment\obj\Debug\IterationArrayAssignment.exe
+C:\Users\Stephanie\source\repos\IterationArrayAssignment\IterationArrayAssignment\obj\Debug\IterationArrayAssignment.pdb
