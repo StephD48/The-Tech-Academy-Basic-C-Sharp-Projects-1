@@ -1,0 +1,12 @@
+C:\Users\Stephanie\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects-1\StudentDatabaseCodeFirst\StudentDatabaseCodeFirst\bin\Debug\StudentDatabaseCodeFirst.exe.config
+C:\Users\Stephanie\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects-1\StudentDatabaseCodeFirst\StudentDatabaseCodeFirst\bin\Debug\StudentDatabaseCodeFirst.exe
+C:\Users\Stephanie\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects-1\StudentDatabaseCodeFirst\StudentDatabaseCodeFirst\bin\Debug\StudentDatabaseCodeFirst.pdb
+C:\Users\Stephanie\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects-1\StudentDatabaseCodeFirst\StudentDatabaseCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Stephanie\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects-1\StudentDatabaseCodeFirst\StudentDatabaseCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stephanie\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects-1\StudentDatabaseCodeFirst\StudentDatabaseCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Stephanie\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects-1\StudentDatabaseCodeFirst\StudentDatabaseCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stephanie\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects-1\StudentDatabaseCodeFirst\StudentDatabaseCodeFirst\obj\Debug\StudentDatabaseCodeFirst.csproj.AssemblyReference.cache
+C:\Users\Stephanie\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects-1\StudentDatabaseCodeFirst\StudentDatabaseCodeFirst\obj\Debug\StudentDatabaseCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects-1\StudentDatabaseCodeFirst\StudentDatabaseCodeFirst\obj\Debug\StudentDatabaseCodeFirst.csproj.CopyComplete
+C:\Users\Stephanie\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects-1\StudentDatabaseCodeFirst\StudentDatabaseCodeFirst\obj\Debug\StudentDatabaseCodeFirst.exe
+C:\Users\Stephanie\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects-1\StudentDatabaseCodeFirst\StudentDatabaseCodeFirst\obj\Debug\StudentDatabaseCodeFirst.pdb
