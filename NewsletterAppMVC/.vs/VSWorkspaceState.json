@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NewsletterAppMVC",
+    "\\NewsletterAppMVC\\App_Data",
+    "\\NewsletterAppMVC\\App_Start",
+    "\\NewsletterAppMVC\\Models",
+    "\\NewsletterAppMVC\\Views",
+    "\\NewsletterAppMVC\\Views\\Admin",
+    "\\packages"
+  ],
+  "SelectedNode": "\\NewsletterAppMVC\\Views\\Admin\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
